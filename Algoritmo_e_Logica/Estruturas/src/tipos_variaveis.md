@@ -40,3 +40,11 @@ double exemploDouble = 19.99;
 char exemploChar = 'A';
 boolean exemploBoolean = true;
 ```
+
+# Funções Matemáticas
+
+| Exemplo            | Significado                                    |
+|--------------------|------------------------------------------------|
+| **Math.sqrt**      | Variável A recebe raiz quadrada de x           |
+| **Math.pow(x, y)** | Variável A recebe o resultado de x elevado a y |
+| **Math.abs(x)**    | Variável A recebe valor absoluto de x          |
