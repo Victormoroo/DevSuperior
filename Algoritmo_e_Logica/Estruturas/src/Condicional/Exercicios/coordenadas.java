@@ -31,7 +31,7 @@ public class coordenadas {
       if (eixoY < 0) {
         System.out.print("Q3");
       } else {
-        System.out.println("Q2");
+        System.out.print("Q2");
       }
     }
     

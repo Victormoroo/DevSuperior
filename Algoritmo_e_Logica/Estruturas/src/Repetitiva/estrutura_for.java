@@ -18,5 +18,7 @@ public class estrutura_for {
     }
 
     System.out.println("RESULTADO = " + soma);
+
+    sc.close();
   }
 }
